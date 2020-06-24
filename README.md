@@ -1,7 +1,5 @@
 # MyHam 
 
-## Build and order your favorite burger
-
 ### What is it about?
 MyHam is a web application developed as a part of an online course where i learned a lot about Reactjs, Redux and Firebase. It is a small project but it includes multiple functionalities for data manipulation and component's life cycle management.
 
